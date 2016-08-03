@@ -1,5 +1,9 @@
 <?php
 
+namespace PhpScripts;
+
+use PhpScripts\Users\Person;
+
 class Business {
 
 	protected $staff;

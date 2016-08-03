@@ -1,5 +1,7 @@
 <?php
 
+namespace PhpScripts\Users;
+
 class Person {
 	protected $name;
 

@@ -1,5 +1,8 @@
 <?php  
 
+namespace PhpScripts;
+use PhpScripts\Users\Person;
+
 class Staff {
 	protected $members;
 
