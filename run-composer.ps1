@@ -1,0 +1,1 @@
+docker run --rm -i -v "/c/Users/Florian.Verdonck/Projects/php-scripts:/usr/src/app" graze/composer:php-7.0 ([string]::Join(" ", $args))

@@ -1,0 +1,1 @@
+docker run -it --rm -v "/c/Users/Florian.Verdonck/Projects/php-scripts:/usr/src/myapp" -w /usr/src/myapp php:7.0-cli php ([string]::Join(" ", $args))
